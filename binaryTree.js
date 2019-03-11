@@ -25,6 +25,6 @@ class BinaryTree {
   }
 }
 
-let list = [6, 3, 5, 1, 2, 8];
-let binaryTree = new BinaryTree(3);
+let list = [3,55,7,33,55,2,66,37,25,40,4,6,22];
+let binaryTree = new BinaryTree(10);
 console.log(binaryTree.finalBinaryTree(list));
